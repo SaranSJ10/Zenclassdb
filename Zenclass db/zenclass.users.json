@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "65c38b11344abd29c1df16af"
+  },
+  "user-id": 1,
+  "name": "saran",
+  "email": "saran@gmail.com",
+  "mentor-id": "s1"
+},
+{
+  "_id": {
+    "$oid": "65c38b11344abd29c1df16b0"
+  },
+  "user-id": 2,
+  "name": "sanjay",
+  "email": "sanjay@gmail.com",
+  "mentor-id": "s3"
+},
+{
+  "_id": {
+    "$oid": "65c38b11344abd29c1df16b1"
+  },
+  "user-id": 3,
+  "email": "arun@gmail.com",
+  " mentor-id": "s2"
+},
+{
+  "_id": {
+    "$oid": "65c38b11344abd29c1df16b2"
+  },
+  "user-id": 4,
+  "name": "deepan",
+  "email": "deepan@gmail.com",
+  "mentor-id": "s3"
+},
+{
+  "_id": {
+    "$oid": "65c38b11344abd29c1df16b3"
+  },
+  "user-id": 5,
+  "name": "sarvesh",
+  "email": "sarvesh@gmail.com",
+  "mentor-id": "s1"
+}]

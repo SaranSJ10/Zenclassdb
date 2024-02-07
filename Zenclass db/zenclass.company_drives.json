@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65c3b960344abd29c1df16d8"
+  },
+  "user-id": 1,
+  "drive_date": {
+    "$date": "2021-10-10T00:00:00.000Z"
+  },
+  "company_name": "Amazon"
+},
+{
+  "_id": {
+    "$oid": "65c3b960344abd29c1df16d9"
+  },
+  "user-id": 2,
+  "drive_date": {
+    "$date": "2021-10-05T00:00:00.000Z"
+  },
+  "company_name": "Google"
+},
+{
+  "_id": {
+    "$oid": "65c3b960344abd29c1df16da"
+  },
+  "user-id": 3,
+  "drive_date": {
+    "$date": "2021-10-15T00:00:00.000Z"
+  },
+  "company_name": "Zoho"
+},
+{
+  "_id": {
+    "$oid": "65c3b960344abd29c1df16db"
+  },
+  "user-id": 4,
+  "drive_date": {
+    "$date": "2021-10-30T00:00:00.000Z"
+  },
+  "company_name": "Dell"
+},
+{
+  "_id": {
+    "$oid": "65c3b960344abd29c1df16dc"
+  },
+  "user-id": 5,
+  "drive_date": {
+    "$date": "2021-10-20T00:00:00.000Z"
+  },
+  "company_name": "Walmart"
+}]

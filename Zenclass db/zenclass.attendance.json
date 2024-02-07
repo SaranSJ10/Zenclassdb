@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "65c3b059344abd29c1df16c4"
+  },
+  "user-id": 1,
+  "present": true
+},
+{
+  "_id": {
+    "$oid": "65c3b059344abd29c1df16c5"
+  },
+  "user-id": 2,
+  "present": true
+},
+{
+  "_id": {
+    "$oid": "65c3b059344abd29c1df16c6"
+  },
+  "user-id": 3,
+  "present": false
+},
+{
+  "_id": {
+    "$oid": "65c3b059344abd29c1df16c7"
+  },
+  "user-id": 4,
+  "present": false
+},
+{
+  "_id": {
+    "$oid": "65c3b059344abd29c1df16c8"
+  },
+  "user-id": 5,
+  "present": true
+}]
